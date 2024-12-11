@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **Pentesting and Cybersecurity**
 
+- 📫 How to reach me **pablogarcia130@gmail.com**
+
+- 📄 CV [https://drive.google.com/file/d/1BiWJ014sEYKNr5h-a1dOuul95cH_5uPF/view?usp=sharing](https://drive.google.com/file/d/1BiWJ014sEYKNr5h-a1dOuul95cH_5uPF/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-garc%c3%ada-sancho-009a18176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-garc%c3%ada-sancho-009a18176/" height="30" width="40" /></a>
