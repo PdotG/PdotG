@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A gradutated Computer Science student</h3>
+<h3 align="center">A graduated Computer Science student</h3>
 
 - 🌱 I’m currently learning **Pentesting and Cybersecurity**
 
